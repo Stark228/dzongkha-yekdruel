@@ -1,4 +1,4 @@
-![](images/DiseasePred.png)
+![](https://github.com/Stark228/dzongkha-yekdruel/blob/main/YP_APP/assets/logo.png)
 
 Disease Prediction System is a machine learning model for early diagnosis of heart and diabetes diseases. 
 
